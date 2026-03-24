@@ -3,5 +3,5 @@ First project for React JS
 <br>
 Author Rohini
 <br>
-Going to the First Change
+Going to the first line of code
 
